@@ -1,1 +1,3 @@
-const perguntas ={}
+const perguntas =[
+    
+]
